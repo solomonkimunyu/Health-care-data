@@ -1,0 +1,402 @@
+Id,name,specialty,institution,location,days,language,telephone
+1,DR YOMBA,CARDIOLOGIST,Le Jourdain,Nlongkak,Monday|Wednesday,French,2.37611E+11
+2,DR BOOMBHI,CARDIOLOGIST,Le Jourdain,Nlongkak,Tuesday|Wednesday|Thursday,French,2.37611E+11
+3,DR GRACE OKORO,DERMATOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Saturday+F4:F118,French,2.37611E+11
+4,DR TSONGUI,DERMATOLOGIST,Le Jourdain,Nlongkak,Thursday|Friday|Saturday,French,2.37611E+11
+5,DR ATEBA,ENDOCRINOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Thursday,French,2.37611E+11
+6,DR NKAMGNA,ENDOCRINOLOGIST,Le Jourdain,Nlongkak,Wednesday|Friday,French,2.37611E+11
+7,DR BOUGHA,GASTROENTOROLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+8,DR MBALLA,RESIDENT,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,English,2.37611E+11
+9,DR MANDENG,INFECTOLOGIST,Le Jourdain,Nlongkak,Tuesday|Thursday|Saturday,French,2.37611E+11
+10,DR MVONDO,OB/GYN,Le Jourdain,Nlongkak,Monday|Wednesday|Friday|Saturday,French,2.37611E+11
+11,DR NGII ROSE,OB/GYN,Le Jourdain,Nlongkak,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37611E+11
+12,DR NOA NDOUA,OB/GYN,Le Jourdain,Nlongkak,Monday,French,2.37611E+11
+13,DR TONYE,OB/GYN,Le Jourdain,Nlongkak,Tuesday|Thursday|Friday,French,2.37611E+11
+14,DR BELINGA ETIENNE,OB/GYN,Le Jourdain,Nlongkak,Tuesday|Wednesday,French,2.37611E+11
+15,DR NGONDI,OB/GYN,Le Jourdain,Nlongkak,Saturday,French,2.37611E+11
+16,DR TEMGOUA,NEUROLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Thursday,French,2.37611E+11
+17,DR MBONDA,NEUROLOGIST,Le Jourdain,Nlongkak,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37611E+11
+18,DR TATAH,NEUROLOGIST,Le Jourdain,Nlongkak,Wednesday| Friday,French,2.37611E+11
+19,DR NONO,NEPHROLOGIST,Le Jourdain,Nlongkak,Tuesday| Thursday,French,2.37611E+11
+20,DR CRISTA,NUTRITIONIST,Le Jourdain,Nlongkak,Wednesday| Friday,French,2.37611E+11
+21,DR SOUNDJOCK,ONDOSTOMATOLOGIA,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+22,DR MANI,ONDOSTOMATOLOGIA,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+23,DR NOATINA,OPHTHALMOLOGIST,Le Jourdain,Nlongkak,Monday|Wednesday,French,2.37611E+11
+24,DR ABDOURAMANI,OPHTHALMOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Friday,French,2.37611E+11
+25,DR NKOUANANG,OPHTHALMOLOGIST,Le Jourdain,Nlongkak,Tuesday|Thursday,English,2.37611E+11
+26,DR BELEHO,OPHTHALMOLOGIST,Le Jourdain,Nlongkak,Thursday,French,2.37611E+11
+27,DR DOHVOMA,OPHTHALMOLOGIST,Le Jourdain,Nlongkak,Saturday,French,2.37611E+11
+28,DR ASMAOU,"EAR, NOSE AND THROAT",Le Jourdain,Nlongkak,Monday|Wednesday|Thursday|Friday,French,2.37611E+11
+29,DR DJARA,"EAR, NOSE AND THROAT",Le Jourdain,Nlongkak,Tuesday,French,2.37611E+11
+30,DR EVEH,"EAR, NOSE AND THROAT",Le Jourdain,Nlongkak,Tuesday|Thursday|Friday,French,2.37611E+11
+31,DR OBIOMBOK,ORTHOPEDIC SURGEON,Le Jourdain,Nlongkak,Monday|Wednesday|Friday,French,2.37611E+11
+32,DR NZIE,ORTHOPEDIC SURGEON,Le Jourdain,Nlongkak,Tuesday|Thursday|Friday|Saturday,French,2.37611E+11
+33,DR KENNEDY,ORTHOPEDIC SURGEON,Le Jourdain,Nlongkak,Tuesday|Thursday,French,2.37611E+11
+34,DR MEKONE,PEDIATRICIAN,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+35,DR ELONDOU,PEDIATRICIAN,Le Jourdain,Nlongkak,Monday|Tuesday|Saturday,French,2.37611E+11
+36,DR GUEMKAM,PEDIATRICIAN,Le Jourdain,Nlongkak,Wednesday|Thursday|Friday,French,2.37611E+11
+37,DR MBOUANDI,PNEUMOLOGIST,Le Jourdain,Nlongkak,Monday|Wednesday|Friday,French,2.37611E+11
+38,DR EYENE,PNEUMOLOGIST,Le Jourdain,Nlongkak,Monday|Thursday,French,2.37611E+11
+39,DR MENGUENE,PSYCHIATRIST,Le Jourdain,Nlongkak,Monday|Thursday,French,2.37611E+11
+40,DR NGEULEU,RHUMATOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+41,DR AZANMENE,RHUMATOLOGIST,Le Jourdain,Nlongkak,Monday|Wednesday|Friday,French,2.37611E+11
+42,DR WAMI,RHUMATOLOGIST,Le Jourdain,Nlongkak,Tuesday,French,2.37611E+11
+43,DR ELOUNDOU,RHUMATOLOGIST,Le Jourdain,Nlongkak,Tuesday,French,2.37611E+11
+44,DR MAMA,UROLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+45,MR OKALA,KINESITHERAPIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+46,DR MBOUDIA,ETIOPATIEST,Le Jourdain,Nlongkak,Tuesday|Wednesday,French,2.37611E+11
+47,DR NGONGANG,BIOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+48,DR NOMO,PSYCHOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+49,MME BELL,PSYCHOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Friday,French,2.37611E+11
+50,DR EKANI BOUKAR,VISCERAL AND DIGESTIVE SURGERY,Le Jourdain,Nlongkak,Monday|Wednesday,French,2.37611E+11
+51,DR MBELLE,VISCERAL AND DIGESTIVE SURGERY,Le Jourdain,Nlongkak,Thursday|Friday,French,2.37611E+11
+52,DR NGOUNGOU,ORTHOPHONIST,Le Jourdain,Nlongkak,Monday|Wednesday|Thursday|Friday|Saturday,English,2.37611E+11
+53,DR CHARLES NGWA,RADIOLOGIST,Le Jourdain,Nlongkak,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+54,DR NGOA SERGE,DENTIST,CASS,Nkoldongo,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+55,DR HAMKA DANIELLA,DENTIST,CASS,Nkoldongo,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37611E+11
+56,DR BOKONO ALAIN,OB/GYN,CASS,Nkoldongo,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+57,DR OTABELA BERNARD,OB/GYN,CASS,Nkoldongo,Monday|Tuesday|Wednesday,French,2.37611E+11
+58,DR TIYOU CALVIN,OB/GYN,CASS,Nkoldongo,Tuesday|Thursday|Saturday,French,2.37611E+11
+59,DR NGO DINGOM,OB/GYN,CASS,Nkoldongo,Friday|Saturday,French,2.37611E+11
+60,DR ABENA ABENA JEAN J,RADIOLOGIST,CASS,Nkoldongo,Friday,French,2.37611E+11
+61,DR NJIKI KINKELA,PEDIATRICIAN,CASS,Nkoldongo,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday,French,2.37611E+11
+62,DR HOTT,PEDIATRICIAN,CASS,Nkoldongo,Monday|Wednesday|Friday,French,2.37611E+11
+63,DR MATIP ELIAS,OPHTHALMOLOGIST,CASS,Nkoldongo,Wednesday|Saturday,French,2.37611E+11
+64,DR BELINGA,GENERAL PRACTITIONER,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+65,DR MBE,GENERAL PRACTITIONER,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+66,DR FADI,GENERAL PPRACTIIONER,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+67,DR TCHOFFO,GENERAL PRACTITIONER,HGOPY,Ngousso,Wednesday|Friday,French,2.37611E+11
+68,DR NGWANOU,RESIDENT,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+69,DR ATIKATOU,RESIDENT,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+70,DR MAKUDJOU,RESIDENT,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+71,DR MIAFFO,RESIDENT,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+72,DR MBAKOP,RESIDENT,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+73,DR DE DJOB,RESIDENT,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+74,DR NGO NDJOCK,RESIDENT,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+75,DR KANDEM,RESIDENT,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+76,DR TAFFOTI,RESIDENT,HGOPY,Ngousso,Tuesday,French,2.37611E+11
+77,DR ZEBAZE,RESIDENT,HGOPY,Ngousso,Tuesday,French,2.37611E+11
+78,DR KENGNE,RESIDENT,HGOPY,Ngousso,Thursday,French,2.37611E+11
+79,DR frU,PEDIATRICIAN,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+80,DR BOGNE,PEDIATRICIAN,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+81,DR HAMO,PEDIATRICIAN,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+82,DR CHIABI,PEDIATRICIAN,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+83,DR SIYOU,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+84,DR TAKOU,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+85,DR DONGMO,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+86,PR NGUEFACK,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+87,DR MAH,PEDIATRICIAN,HGOPY,Ngousso,Wednesday|Friday,French,2.37611E+11
+88,DR TAMO,OB/GYN,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+89,DR MEKA,OB/GYN,HGOPY,Ngousso,Monday|Tuesday,French,2.37611E+11
+90,DR MALOUM,OB/GYN,HGOPY,Ngousso,Monday|Thursday,French,2.37611E+11
+91,DR FENG,OB/GYN,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+92,DR NNANG,OB/GYN,HGOPY,Ngousso,Monday|Thursday,French,2.37611E+11
+93,DR TIOMELA,OB/GYN,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+94,DR FOUMANE,OB/GYN,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+95,DR MEKA,OB/GYN,HGOPY,Ngousso,Tuesday,French,2.37611E+11
+96,DR ZAMBO,OB/GYN,HGOPY,Ngousso,Tuesday|Wednesday,French,2.37611E+11
+97,DR SANDJONG,OB/GYN,HGOPY,Ngousso,Tuesday|Wednesday,French,2.37611E+11
+98,DR DOHBIT,OB/GYN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+99,DR ENAMA,OB/GYN,HGOPY,Ngousso,Wednesday|Thursday,French,2.37611E+11
+100,DR BAMNI,OB/GYN,HGOPY,Ngousso,Wednesday|Friday,French,2.37611E+11
+101,DR FOUDA(Cardiologue),OB/GYN,HGOPY,Ngousso,Thursday,French,2.37611E+11
+102,PLANNING FAMILIAL,OB/GYN,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+103,DR KEWE,"EAR, NOSE AND THROAT",HGOPY,Ngousso,Monday,French,2.37611E+11
+104,DR MBELE,"EAR, NOSE AND THROAT",HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+105,DR DJARA,"EAR, NOSE AND THROAT",HGOPY,Ngousso,Wednesday,French,2.37611E+11
+106,DR KWEME,"EAR, NOSE AND THROAT",HGOPY,Ngousso,Thursday,French,2.37611E+11
+107,DR ABDOURAMANI,OPHTHALMOLOGIST,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday,French,2.37611E+11
+108,DR NANFACK,OPHTHALMOLOGIST,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Friday,French,2.37611E+11
+109,DR KEVINE MOUGO,OPHTHALMOLOGIST,HGOPY,Ngousso,Wednesday,French,2.37611E+11
+110,DR TAGOUDI,GENERAL PRACTITIONER,HGOPY,Ngousso,Monday|Wednesday|Friday,French,2.37611E+11
+111,DR HANDY,GENERAL PRACTITIONER,HGOPY,Ngousso,Monday,French,2.37611E+11
+112,PR MOUAFO,PEDIATRICIAN,HGOPY,Ngousso,Tuesday,French,2.37611E+11
+113,PR ANGWAFO,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+114,DR MBOUCHE,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+115,DR YANG,GENERAL PRACTITIONER,HGOPY,Ngousso,Wednesday,French,2.37611E+11
+116,DR CHANG,GENERAL PRACTITIONER,HGOPY,Ngousso,Wednesday,French,2.37611E+11
+117,PR ANDZE,GENERAL PRACTITIONER,HGOPY,Ngousso,Thursday,French,2.37611E+11
+118,MME KENMEGNE MARLYSE IDE,NURSE,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+119,DR YU YUE ZHEN,PEDIATRICIAN,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+120,DR HUANG LI QIN,PEDIATRICIAN,HGOPY,Ngousso,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37611E+11
+121,DR CHIABI A,PEDIATRICIAN,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+122,DR BOGNE J B,PEDIATRICIAN,HGOPY,Ngousso,Monday|Wednesday,French,2.37611E+11
+123,DR TAKOU V,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+124,DR MAH E,PEDIATRICIAN,HGOPY,Ngousso,Wednesday|Friday,French,2.37611E+11
+125,DR NGUEFACK S,PEDIATRICIAN,HGOPY,Ngousso,Monday|Friday,French,2.37611E+11
+126,DR SIYOU,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Thursday,French,2.37611E+11
+127,DR frU FLORENCE,PEDIATRICIAN,HGOPY,Ngousso,Friday,French,2.37611E+11
+128,DR BONO*,PEDIATRICIAN,HGOPY,Ngousso,Monday,French,2.37611E+11
+129,DR NGOU*,PEDIATRICIAN,HGOPY,Ngousso,Tuesday|Friday,French,2.37611E+11
+130,DR TATAH*,PEDIATRICIAN,HGOPY,Ngousso,Wednesday,French,2.37611E+11
+131,DR ABOUAME*,PEDIATRICIAN,HGOPY,Ngousso,Thursday,French,2.37611E+11
+132,DR.NGOMEGNI EMMANUEL,KINESITHERAPIST,Centre D’Osteophathie D’Acupunture,Quatier Fouda,Monday|Tuesday|Wednesday|Thursday,French,699809431
+133,DR FANON,PEDIATRICIAN,Fondation frantz Fanon,Bastos,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,242001727
+134,DR TCHUENTE,CARDIOLOGIST,Cabinet Lamat,Omnisport,Monday|Tuesday|Wednesday|Thursday|Friday,French,699911798
+135,DR EDOU ,OB/GYN,Clinic Edou,Etoudi,Tuesday|Wednesday|Thursday|Friday|Saturday,French,222201856
+136,DR THIERRY DANG,PSYCHOLOGIST,Cabinet de Psychologie,Avenue kennedy,Monday|Tuesday|Wednesday|Thursday|Friday,French,677648864
+137,DR AKO SIMON,OB/GYN,Centre Mere et Enfant Mendong,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday,French,677609189
+138,DR ENDEZOUMOU SIMON ,OPHTHALMOLOGIST,Centre Ophtabis,Central Town,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,699809431
+139,DR KENNA,"EAR, NOSE AND THROAT",Clinique Fouda,Quatier Fouda,Wednesday|Saturday,French,699298497
+140,DR MAMA,UROLOGIST,Clinique Fouda,Quatier Fouda,Tuesday|Saturday,French,650206969
+141,DR PAUL ELOUNDOU ONOMO,RHUMATOLOGIST,Clinique Fouda,Quatier Fouda,Tuesday|Thursday,French,677872262
+142,DR MAIMOUNA MAHAMAT,NEPHROLOGIST,Clinique Fouda,Quatier Fouda,Wednesday,French,696022962
+143,Consultation,PNEUMOLOGIST,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Thursday,French,697910583
+144,DR BOLA S ANTOINE,"EAR, NOSE AND THROAT",Clinique Fouda,Quatier Fouda,Monday|Tuesday,French,699708961
+145,DR NOUBEG M. L.,RADIOLOGIST,Clinique Fouda,Quatier Fouda,On call,French,678975362
+146,DR OBEN J. ENOHTANYA,OB/GYN,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,694324160
+147,PR DOH,OB/GYN,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Wednesday|Thursday|Friday,French,677619213
+148,DR NGONO,DERMATOLOGIST,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Wednesday,French,696474876
+149,Consultation,NEUROSURGEON,Clinique Fouda,Quatier Fouda,Monday|Wednesday,French,677766020
+150,DR KAMTO SIMO D,GASTROENTOROLOGIST,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Thursday|Friday,French,679539483
+151,MME BELL ROSE,PSYCHOLOGIST,Clinique Fouda,Quatier Fouda,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday,French,675485379
+152,Consultation,CARDIOLOGIST,Clinique Fouda,Quatier Fouda,Monday|Friday|Saturday,French,674116987
+153,DR NOA NOA TINA,OPHTHALMOLOGIST,Clinique Fouda,Quatier Fouda,Monday|Wednesday|Thursday,French,678902548
+154,DR KIATOKO NONO,NEUROLOGIST,Clinique Fouda,Quatier Fouda,Monday|Friday,French,655970866
+155,DR NKOUDJOUA DANIEL,GENERAL PRACTITIONER,Cabinet Medical Deborah,Yaounde,On call,French,699195224
+156,DR YVONNE NKOUAMEN NGATCHOU,DENTIST,Independent,Yaounde,On call,French,699952377
+157,DR SAMUEL KINGUE,CARDIOLOGIST,Independent,Yaounde,On call,French,677700477
+158,PROF WALI MUNA,CARDIOLOGIST,Independent,Yaounde,On call,English,677708224
+159,DR KATHLEEN NGU,CARDIOLOGIST,Independent,Yaounde,On call,English,699867824
+160,DR WAWO,CARDIOLOGIST,Independent,Yaounde,On call,French,677111331
+161,DR EDMEE ESOH TCHALE,DENTIST,Independent,Yaounde,On call,English,222212195
+162,DR JOSEPHINE MBUAGBAW,DERMATOLOGIST,Independent,Yaounde,On call,French,677757906
+163,DR FRANCOIS DJOMOU,"EAR, NOSE AND THROAT",University Teaching Hospital,Yaounde,On call,French,699859338
+164,DR ALLAIN NDJOLLO,"EAR, NOSE AND THROAT",Independent,Yaounde,On call,French,222395667
+165,DR LUCIENNE KAMANY KEMGUEU,FAMILY PRACTITIONER,Independent,Yaounde,On call,French,69942020
+166,DR SIMO DYANE,GASTRO ENTEROLOGUE,Independent,Yaounde,On call,French,699936618
+167,DR MICHELE SATRE TAGNI,GASTRO ENTEROLOGUE,Independent,Yaounde,On call,French,222233453
+168,DR MARC LEROY GUIFO,GENERAL SURGEON,University Teaching Hospital,Yaounde,On call,French,222212018
+169,DR GLORIA ASHU TANG TANG,NEPHOLOGIST,Independent,Yaounde,On call,English,222212029
+170,DR ALFRED NJAMSHI,NEUROLOGIST,Independent,Yaounde,On call,English,677619964
+171,DR MARC LEROY GUIFO,ORTHOPEDIC SURGEON,University Teaching Hospital,Yaounde,On call,French,222212018
+172,DR ASHU BALIMBA,OB/GYN,Independent,Yaounde,On call,English,677703032
+173,DR TUMASANG FLORENCE,OB/GYN,Independent,Yaounde,On call,English,699918092
+174,DR PIUS NGASSA,OB/GYN,Independent,Yaounde,On call,French,677520515
+175,DR PIERRE SENDE,OB/GYN,Independent,Yaounde,On call,French,698859471
+176,DR ALAIN ELOM,OPHTHALMOLOGIST,Independent,Yaounde,On call,French,222205118
+177,DR EPEE EMILIENE,OPHTHALMOLOGIST,Independent,Yaounde,On call,French,699549041
+178,DR MANGA ALEXANDRE,ORTHOPEADIST,Independent,Yaounde,On call,French,699615553
+179,DR JULIA NGU,PEDIATRICIAN,Independent,Yaounde,On call,English,677829924
+180,PR TETANYE,PEDIATRICIAN,Independent,Yaounde,On call,French,677796308
+181,DR TIENTCHEU,PEDIATRICIAN,Independent,Yaounde,On call,French,699921924
+182,DR KIMA TESSA,PHARMACIST,Independent,Yaounde,On call,English,677745074
+183,DR NTONE FELICIEN,PSYCHIATRIST,Independent,Yaounde,On call,French,677752777
+184,ANNCOMMY EKORTAH,PSYCHOLOGIST,Independent,Yaounde,On call,English,677517070
+185,PR KOABAN,PULMONOLOGIST,Independent,Yaounde,On call,French,699490239
+186,DR NJUIMO GEORGES,RADIOLOGIST,Independent,Yaounde,On call,French,677710913
+187,CHARLES GUY,RADIOLOGIST,Chinese Hospital,Yaounde,On call,French,677671741
+188,FORBA PIUS,RADIOLOGIST,Chinese Hospital,Yaounde,On call,English,699474939
+189,PR NKO'O SAMUEL,RADIOLOGIST,University Teaching Hospital,Yaounde,On call,French,677257000
+190,DR AHANDA ASSIGA,GENERAL SURGEON,Independent,Yaounde,On call,French,699889433
+191,DR JEAN-JACQUES PAGBE,GENERAL SURGEON,Independent,Yaounde,On call,French,222312103
+192,DR CORALYN,CARDIOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Monday,French,23775559834
+193,DR LOWRANCE,DERMATOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Thursday,French,23775553104
+194,DR CLEMMIE,PEDIATRICIAN,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Thursday,French,23775553365
+195,DR HEATH,PEDIATRICIAN,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Thursday,French,2.37956E+12
+196,DR KANYA,PEDIATRICIAN,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Thursday,French,2.37956E+11
+197,DR HAIN,PEDIATRICIAN,Biyem-Assi District Hospital,Biyem-Assi,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37956E+12
+198,DR ROBINA,PEDIATRICIAN,Biyem-Assi District Hospital,Biyem-Assi,Monday|Tuesday|Wednesday|Thursday|Friday,French,23775553013
+199,DR INES,GENERAL PRACTITIONER,Biyem-Assi District Hospital,Biyem-Assi,Monday|Tuesday|Wednesday|Thursday|Friday,English,23795552557
+200,DR WYLIE,GENERAL PRACTITIONER,Biyem-Assi District Hospital,Biyem-Assi,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37756E+12
+201,DR GABBIE,PSYCHOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Thursday,French,2.37956E+12
+202,DR ANGELINE,OB/GYN,Biyem-Assi District Hospital,Biyem-Assi,Friday,French,2.37756E+12
+203,DR DENNIS,OB/GYN,Biyem-Assi District Hospital,Biyem-Assi,Saturday,French,2.37756E+12
+204,DR COREEN,"EAR, NOSE AND THROAT",Biyem-Assi District Hospital,Biyem-Assi,Wednesday|Friday,French,2.37956E+11
+205,DR TADEO,"EAR, NOSE AND THROAT",Biyem-Assi District Hospital,Biyem-Assi,Wednesday|Friday,French,2.37956E+11
+206,DR STACI,OPHTHALMOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Wednesday|Friday,French,2.37956E+11
+207,DR BLAKE,DERMATOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Wednesday|Friday,French,2.37956E+12
+208,DR FERREL,OPHTHALMOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Wednesday|Friday,French,2.37756E+11
+209,DR DARCI,OPHTHALMOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Saturday,French,2.37956E+11
+210,DR KIAL,OPHTHALMOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Saturday,French,2.37956E+12
+211,DR VERONIKE,OPHTHALMOLOGIST,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Saturday,French,2.37956E+12
+212,DR MARCI,GENERAL SURGEON,Biyem-Assi District Hospital,Biyem-Assi,Tuesday|Saturday,French,23775550832
+213,DR HENDRICK,UROLOGIST,Hospital Bethesda,Bastos,Tuesday|Saturday,French,2.37956E+11
+214,DR AERIEL,UROLOGIST,Hospital Bethesda,Bastos,Tuesday|Saturday,French,23795555135
+215,DR RIOBARD,UROLOGIST,Hospital Bethesda,Bastos,Tuesday|Saturday,French,2.37956E+11
+216,DR CARIA,DERMATOLOGIST,Hospital Bethesda,Bastos,Tuesday|Saturday,English,2.37956E+11
+217,DR WILLARD,UROLOGIST,Hospital Bethesda,Bastos,Monday|Wednesday,French,23795554220
+218,DR ALLIE,DERMATOLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795550363
+219,DR NERTE,DERMATOLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+220,DR GRISELDA,UROLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+221,DR MATTEO,GENERAL PRACTITIONER,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795554447
+222,DR MICHAL,RADIOLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+223,DR JANE,CARDIOLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775555768
+224,DR AUSTIN,"EAR, NOSE AND THROAT",Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795558983
+225,DR XENOS,ONDOSTOMATOLOGIA,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+226,DR GIUSTINA,GENERAL PRACTITIONER,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+227,DR EADITH,NEUROLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795557760
+228,DR NANNIE,NEUROLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795552664
+229,DR OLYMPE,GENERAL PRACTITIONER,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+230,DR OPALINA,NURSE,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+231,DR ALBERIK,NEPHROLOGIST,Hospital Bethesda,Bastos,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+232,DR BARBARAANNE,NURSE,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+233,DR MIRANDA,DENTIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+234,DR JOELLY,DERMATOLOGIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+235,DR PEYTER,GENERAL PRACTITIONER,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+236,DR JILL,OPHTHALMOLOGIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775552250
+237,DR KAITLYN,DERMATOLOGIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+238,DR AINDREA,OB/GYN,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795559260
+239,DR HORATIUS,"EAR, NOSE AND THROAT",Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+240,DR LEGRA,CARDIOLOGIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+241,DR DAILE,GENERAL PRACTITIONER,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+242,DR JONE,OPHTHALMOLOGIST,Yaounde General Hospital,Ngoa-Ekele,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775557001
+243,DR PENELOPA,GENERAL SURGEON,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,English,23795550024
+244,DR KATHA,NEPHROLOGIST,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37756E+12
+245,DR KARLEE,NEPHROLOGIST,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+12
+246,DR JACQUELINE,GENERAL PRACTITIONER,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+11
+247,DR SASHA,GENERAL SURGEON,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+11
+248,DR GUSTAVUS,GENERAL SURGEON,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37756E+11
+249,DR BERTY,GENERAL SURGEON,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+11
+250,DR LIBBI,"EAR, NOSE AND THROAT",Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,23775551763
+251,DR AMBROSI,GENERAL PRACTITIONER,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37756E+12
+252,DR CHRISTOS,GENERAL PRACTITIONER,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+12
+253,DR HAMISH,GENERAL SURGEON,Yaounde General Hospital,Ngoa-Ekele,Friday|Saturday,French,2.37956E+11
+254,DR CHANCEY,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37756E+11
+255,DR RAIMUNDO,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+256,DR BORIS,GENERAL SURGEON,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,23795556702
+257,DR CONCETTINA,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37756E+12
+258,DR ARNALDO,DERMATOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,23795558704
+259,DR TADEAS,DERMATOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37756E+12
+260,DR THEKLA,RADIOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,23775558296
+261,DR EMA,PSYCHOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+262,DR PAOLO,NEUROLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+12
+263,DR DIANNNE,DERMATOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+264,DR GUY,RADIOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+265,DR ISABELLE,GENR,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+266,DR GENNI,"EAR, NOSE AND THROAT",University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37756E+11
+267,DR DEBBY,CARDIOLOGIST,University Teaching Hospital,Melen,Friday|Saturday|Sunday,French,2.37956E+11
+268,DR ADEY,CARDIOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+269,DR DORALIA,GENERAL SURGEON,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775551033
+270,DR JENNI,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+271,DR ASHLEN,NEPHROLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+272,DR DANNA,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+273,DR ADRIANNA,UROLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795556377
+274,DR EOLANDA,GENERAL SURGEON,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+275,DR RONNI,RADIOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+276,DR LES,ORTHOPEDIC SURGEON,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+277,DR RANSOM,DERMATOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+278,DR TARYN,ORTHODENTIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+279,DR BAMBY,"EAR, NOSE AND THROAT",University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775552761
+280,DR FELISHA,DENTIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,23795552322
+281,DR PAQUITO,RADIOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+282,DR ERMANNO,OPHTHALMOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+283,DR MARIE,OPHTHALMOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+284,DR LA VERNE,GENERAL PRACTITIONER,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+285,DR ROZALIE,RADIOLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+286,DR CAPRICE,"EAR, NOSE AND THROAT",University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+287,DR GABRIELLIA,NEUROLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+288,DR BYROM,NEPHROLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+11
+289,DR DAGY,NEUROLOGIST,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+11
+290,DR MADELLA,OB/GYN,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+291,DR PHYLLIS,OB/GYN,University Teaching Hospital,Melen,Monday| Tuesday| Wednesday| Thursday|Friday,French,23775558955
+292,DR ELAYNE,PEDIATRICIAN,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Thursday,French,23775552294
+293,DR TOMMY,DENTIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Wednesday|Friday,French,2.37956E+12
+294,DR IMELDA,GENERAL PRACTITIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37956E+11
+295,DR DARN,UROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37756E+12
+296,DR SHAYNE,GENERAL PPRACTIIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday|Saturday,French,2.37956E+11
+297,DR DELORA,RADIOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Wednesday|Friday|Saturday,French,23775554200
+298,DR LINET,GENERAL PRACTITIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37756E+12
+299,DR JAY,OPHTHALMOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday,French,2.37956E+11
+300,DR GAVIN,DERMATOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday|Friday,French,2.37756E+11
+301,DR KALEENA,CARDIOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Wednesday,French,2.37956E+12
+302,DR PIERRE,NEPHROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Saturday,French,2.37956E+11
+303,DR MYRNA,NEPHROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Thursday,French,2.37756E+11
+304,DR TREFOR,NEPHROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday| Tuesday| Wednesday| Thursday|Friday,French,2.37956E+12
+305,DR LURA,GENERAL PRACTITIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Wednesday| Friday,French,2.37756E+12
+306,DR ELLYN,DERMATOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday| Thursday,French,2.37756E+11
+307,DR LORRIE,NURSE,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Wednesday| Friday,French,2.37756E+12
+308,DR XAVIER,GENERAL PRACTITIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,23775556334
+309,DR POWELL,GENERAL PRACTITIONER,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37756E+12
+310,DR MALENA,PEDIATRICIAN,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Wednesday,French,2.37956E+12
+311,DR ANTHIA,DENTIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Friday,French,23795552811
+312,DR MERLE,DENTIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday,French,23795553571
+313,DR DMITRI,OPHTHALMOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Thursday,French,2.37756E+11
+314,DR KIPPIE,OB/GYN,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Saturday,French,23795554953
+315,DR LIANE,UROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Wednesday|Thursday|Friday,French,23795550210
+316,DR ANNNORA,OB/GYN,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday,French,2.37756E+11
+317,DR NARIKO,GENERAL SURGEON,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday|Friday,French,2.37756E+11
+318,DR DONNIE,RADIOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Wednesday|Friday,French,23775554323
+319,DR BRAND,NEPHROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday|Friday|Saturday,French,2.37956E+11
+320,DR ANDRIS,NEUROLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Tuesday|Thursday,French,2.37756E+11
+321,DR NOAM,RADIOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37956E+12
+322,DR SHAINE,RADIOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Tuesday|Saturday,French,2.37956E+11
+323,DR NICKEY,PSYCHOLOGIST,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Wednesday|Thursday|Friday,French,23775551633
+324,DR NYE,GENERAL SURGEON,Catholic Hospital of the Immaculate Heart of Mary,Mendong,Monday|Wednesday|Friday,French,2.37756E+12
+325,DR MARENA,ORTHODENTIST,Social Health Clinic,Damas,Monday|Thursday,French,2.37756E+11
+326,DR GAYLEEN,DENTIST,Social Health Clinic,Damas,Monday|Thursday,French,23775557926
+327,DR CIRO,GENERAL PRACTITIONER,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37956E+12
+328,DR ADRIANE,PEDIATRICIAN,Social Health Clinic,Damas,Monday|Wednesday|Friday,French,23775559368
+329,DR PATIN,GENERAL PRACTITIONER,Social Health Clinic,Damas,Tuesday,French,2.37756E+12
+330,DR PATRICK SERGE,GENERAL PRACTITIONER,Social Health Clinic,Damas,Tuesday,French,23775554285
+331,DR DORETTE,OB/GYN,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,23795557984
+332,DR MARGAUX,DERMATOLOGIST,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,23795551365
+333,DR WAYNE FRANCIS,"EAR, NOSE AND THROAT",Social Health Clinic,Damas,Tuesday|Wednesday,French,2.37956E+12
+334,DR ELISE RICHARD,ORTHOPEDIC SURGEON,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37956E+11
+335,DR DONAVON,CARDIOLOGIST,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37956E+12
+336,DR CARL NGONO,DERMATOLOGIST,Social Health Clinic,Damas,Monday|Tuesday|Friday,French,23775559945
+337,DR BERKLY SIMPLICE,"EAR, NOSE AND THROAT",Social Health Clinic,Damas,Monday|Wednesday,French,23775558625
+338,DR MARYA,NEUROLOGIST,Social Health Clinic,Damas,Thursday|Friday,French,2.37756E+11
+339,DR NIKOLAS,DENTIST,Social Health Clinic,Damas,Monday|Wednesday|Thursday|Friday|Saturday,French,2.37756E+12
+340,DR AILIS,DENTIST,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37756E+12
+341,DR GILBER EWONO,GENERAL SURGEON,Social Health Clinic,Damas,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,23775552442
+342,DR CLARENCE MATIP,OPHTHALMOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday,French,2.37756E+12
+343,DR ANNMARIE THERESE,DENTIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37956E+12
+344,DR ARLYNE ROMAINE,OPHTHALMOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Tuesday|Wednesday,French,23775559092
+345,DR SHERILL LOMBARD,RADIOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Thursday|Saturday,French,2.37756E+11
+346,DR MONICA TACHA,"EAR, NOSE AND THROAT",Etoug-Ebe Baptist Hospital,Etoug-Ebe,Friday|Saturday,French,2.37756E+11
+347,DR MERILYN FRU,OPHTHALMOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Friday,French,2.37756E+12
+348,DR LYDA RACHEL,PSYCHOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday,French,2.37956E+12
+349,DR ISA NGUFOR,DENTIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday|Friday,English,2.37756E+12
+350,DR ELENORE KWAM,PEDIATRICIAN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Wednesday|Saturday,English,2.37756E+12
+351,DR ISAIAH ,OB/GYN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Friday,French,23775554904
+352,DR AISSATOU FALL,GENERAL PRACTITIONER,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Thursday,English,2.37756E+12
+353,DR WINNIE MAGNE,GENERAL PRACTITIONER,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Thursday,French,2.37956E+11
+354,DR PAVEL RENISSE,GENERAL PRACTITIONER,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Wednesday|Friday,French,2.37756E+11
+355,DR SOFIE ANNA,GENERAL PRACTITIONER,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,23775553066
+356,DR JEANIE ATANGANA,OB/GYN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,2.37756E+12
+357,DR YASMEEN ,OB/GYN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,2.37956E+11
+358,DR MONTI,GENERAL SURGEON,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,2.37756E+12
+359,DR ERMINA,PEDIATRICIAN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,French,23775556152
+360,DR IGGY,GENERAL SURGEON,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,English,2.37756E+12
+361,DR THATCH,GENERAL SURGEON,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,English,2.37956E+11
+362,DR LAURYN,DENTIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,French,23775559422
+363,DR ADOLPHUS,DENTIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday,English,2.37956E+12
+364,DR SCARLET,DENTIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday,English,2.37956E+11
+365,DR HARRIE,OB/GYN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Thursday,French,2.37956E+11
+366,DR BIRDIE,DERMATOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Friday,French,2.37756E+12
+367,DR LIONEL,DERMATOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,2.37756E+12
+368,DR BARNEY,RADIOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Friday,French,2.37756E+11
+369,DR SUSANETTA,DERMATOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Monday|Wednesday,French,2.37756E+12
+370,DR NOACH,DERMATOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Thursday,English,23795557533
+371,DR HARMON,OB/GYN,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Thursday,French,23775551881
+372,DR NATASSIA,RADIOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,French,23795557129
+373,DR BOBBY,PSYCHOLOGIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Tuesday|Friday,English,23775556047
+374,DR ETHYL,PSYCHIATRIST,Etoug-Ebe Baptist Hospital,Etoug-Ebe,Wednesday|Friday,French,23775559968
+375,DR TRACY,"EAR, NOSE AND THROAT",Baptist Hospital,Omnisport,Monday|Wednesday,English,2.37956E+12
+376,VJENIECE,PSYCHIATRIST,Baptist Hospital,Omnisport,Monday|Tuesday,French,23775551237
+377,DR ASHLEN,RADIOLOGIST,Baptist Hospital,Omnisport,Monday|Thursday,French,2.37756E+11
+378,DR COZMO,OPHTHALMOLOGIST,Independent,Omnisport,Monday|Tuesday|Wednesday|Thursday|Friday,French,2.37756E+11
+379,DR WILL,GENERAL SURGEON,Independent,Yaounde,Monday|Thursday,English,23775552293
+380,DR CORNELIUS,DENTIST,Independent,Yaounde,Monday|Friday,French,2.37956E+12
+381,DR WINIFIELD,DENTIST,Independent,Yaounde,Monday|Friday,French,23795557381
+382,DR SASHENKA,DENTIST,Independent,Yaounde,Tuesday,French,2.37956E+12
+383,DR DOLLEEN,DENTIST,Independent,Yaounde,Tuesday|Wednesday,English,2.37756E+12
+384,DR ALDUS,OPHTHALMOLOGIST,Independent,Yaounde,Tuesday|Wednesday,French,2.37756E+11
+385,DR ROSEMONDE,RADIOLOGIST,Independent,Yaounde,Tuesday|Thursday,French,2.37756E+11
+386,DR WANDIE RAPHAEL,DENTIST,Independent,Yaounde,Wednesday|Thursday,French,23795558227
+387,DR VONNIE,PSYCHOLOGIST,Independent,Yaounde,Wednesday|Friday,French,2.37956E+12
+388,DR SANDIE REEWS,OPHTHALMOLOGIST,Independent,Yaounde,Thursday,French,23775553505
+389,DR CHALMERS,ORTHODENTIST,Independent,Yaounde,Monday|Tuesday|Wednesday|Thursday|Friday,French,23795558734
+390,DR CORRIANNE,ONDOSTOMATOLOGIA,Independent,Yaounde,Monday,French,23795555768
+391,DR BRYAN ONANA,GENERAL PRACTITIONER,Independent,Yaounde,Tuesday|Friday,English,2.37756E+11
+392,DR VALENCIA,OB/GYN,Independent,Yaounde,Wednesday,English,23795551836
+393,DR ALDO,GENERAL SURGEON,Independent,Yaounde,Thursday,French,23795551729
+394,DR SULLY RANDY,DERMATOLOGIST,Independent,Yaounde,Monday|Tuesday|Wednesday|Thursday,English,2.37956E+12
+395,DR MOHAMMED ,PEDIATRICIAN,Independent,Yaounde,Monday|Tuesday|Wednesday|Friday,English,23775557301
+396,DR GERMAIN,OPHTHALMOLOGIST,Independent,Yaounde,Wednesday,French,2.37756E+11
+397,DR COLETTE,PEDIATRICIAN,Independent,Yaounde,On call,French,23795559050
+398,DR RUDOLPHE,OB/GYN,Independent,Yaounde,On call,French,2.37756E+12
+399,DR FLORENTIA,DENTIST,Independent,Yaounde,On call,French,2.37756E+12
+400,DR LAURA KAMSONG,OB/GYN,Independent,Yaounde,On call,French,23775557158
+401,DR JACQUELIN ,DERMATOLOGIST,Independent,Yaounde,On call,English,679934215
